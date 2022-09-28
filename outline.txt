@@ -5,4 +5,4 @@ Tellus cras adipiscing enim eu turpis. Integer enim neque volutpat ac tincidunt 
 
 Chapter 2 -
 Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget.
-Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Quis commodo
+Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt.
