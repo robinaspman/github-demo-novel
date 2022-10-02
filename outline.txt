@@ -1,8 +1,6 @@
 Chapter 1 -
 
-- We meet Nick, Tom, Daisy, and jordan
-Ut etiam sit amet nisl purus in mollis nunc.
-Tellus cras adipiscing enim eu turpis. Integer enim neque volutpat ac tincidunt vitae.
+- We meet Nick, Tom, Daisy, and jordan Ut etiam sit amet nisl purus in mollis nunc. Tellus cras adipiscing enim eu turpis. Integer enim neque volutpat ac tincidunt vitae.
 
 Chapter 2 -
 Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget.
